@@ -1,31 +1,40 @@
-# landingpage
-Landing Page using HTML, Tailwind CSS, showcasing a clean, responsive design with sections for hero, features, about, and contact. Built for practicing modern layouts, responsiveness, and UI structuring.
-## 🚀 Features
-- Hero section with call-to-action
-- About and features sections
-- Contact section
-- Responsive design using Tailwind CSS
-- Smooth scrolling and navigation
+<p align="center">
+  <a href="https://tailwindcss.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
+      <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="350" height="70" style="max-width: 100%;">
+    </picture>
+  </a>
+</p>
 
-## 🛠️ Tech Stack
-- HTML
-- Tailwind CSS
+<p align="center">
+  A utility-first CSS framework for rapidly building custom user interfaces.
+</p>
 
-## 📸 Screenshots
-![Screenshot 2025-06-26 120432](https://github.com/user-attachments/assets/24d61360-1946-442e-8e30-dd9b1aa2b48a)
+<p align="center">
+    <a href="https://github.com/tailwindlabs/tailwindcss/actions"><img src="https://img.shields.io/github/actions/workflow/status/tailwindlabs/tailwindcss/ci.yml?branch=next" alt="Build Status"></a>
+    <a href="https://www.npmjs.com/package/tailwindcss"><img src="https://img.shields.io/npm/dt/tailwindcss.svg" alt="Total Downloads"></a>
+    <a href="https://github.com/tailwindcss/tailwindcss/releases"><img src="https://img.shields.io/npm/v/tailwindcss.svg" alt="Latest Release"></a>
+    <a href="https://github.com/tailwindcss/tailwindcss/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/tailwindcss.svg" alt="License"></a>
+</p>
 
+---
 
-## 🌐 Live Preview
-*(Add your GitHub Pages live link here after deployment)*
+## Documentation
 
-## 📥 How to run locally
-1️⃣ Clone the repository:
-https://github.com/Sneha51107/landingpage
-2️⃣ Open `index.html` in your browser.
+For full documentation, visit [tailwindcss.com](https://tailwindcss.com).
 
+## Community
 
+For help, discussion about best practices, or any other conversation that would benefit from being searchable:
 
-## 📬 Contact
-For queries or collaboration, connect via [LinkedIn](https://www.linkedin.com) or email at `snehaar004@gmail.com`.
+[Discuss Tailwind CSS on GitHub](https://github.com/tailwindcss/tailwindcss/discussions)
 
-⭐ **Star the repository if you like the project!**
+For chatting with others using the framework:
+
+[Join the Tailwind CSS Discord Server](https://discord.gg/7NF8GNe)
+
+## Contributing
+
+If you're interested in contributing to Tailwind CSS, please read our [contributing docs](https://github.com/tailwindcss/tailwindcss/blob/next/.github/CONTRIBUTING.md) **before submitting a pull request**.
